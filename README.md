@@ -34,6 +34,14 @@ Welcome to my GitHub! I'm a passionate software engineer with over 6 years of ex
 
 ---
 
+### 📈 GitHub Stats
+
+![Anshul's GitHub Stars](https://github-readme-stats.vercel.app/api?username=Anshuljain30&show_icons=true&hide=prs,issues,contribs&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuljain30&layout=compact&theme=default)
+
+---
+
 ### 💬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anshuljain30/)
