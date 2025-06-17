@@ -19,10 +19,13 @@ Welcome to my GitHub! I'm a passionate software engineer with over 6 years of ex
 
 ### 🌟 Featured Projects
 
-- [`cloud-storage-factory`](https://github.com/Anshuljain30/cloud-storage-factory)  
-  > Unified cloud storage SDK supporting AWS S3, Azure Blob, and GCP Storage with a pluggable provider pattern.
+#### NPM Package: [`cloud-storage-factory`](https://github.com/Anshuljain30/cloud-storage-factory)
 
-- [More coming soon...]
+A lightweight SDK to abstract AWS, GCP, and Azure storage providers with a pluggable factory pattern.
+
+[![npm version](https://img.shields.io/npm/v/cloud-storage-factory.svg)](https://www.npmjs.com/package/cloud-storage-factory)
+[![npm downloads](https://img.shields.io/npm/dm/cloud-storage-factory.svg)](https://www.npmjs.com/package/cloud-storage-factory)
+[![GitHub stars](https://img.shields.io/github/stars/Anshuljain30/cloud-storage-factory?style=social)](https://github.com/Anshuljain30/cloud-storage-factory)
 
 ---
 
