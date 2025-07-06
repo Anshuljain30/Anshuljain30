@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Software Engineer | Node.js | Nest.js | TypeScript | Cloud Enthusiast
 
-Welcome to my GitHub! I'm a passionate software engineer with over 6 years of experience in backend development, distributed systems, and building scalable, cloud-native applications.
+Welcome to my GitHub! I'm a passionate software engineer with over 6.10 years of experience in backend development, distributed systems, and building scalable, cloud-native applications.
 
 ---
 
